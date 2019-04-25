@@ -1,0 +1,84 @@
+/* 
+nav{
+    position: sticky;
+    top:0px;
+}
+
+h3{
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
+
+ul {
+    
+    list-style-type: none;
+    overflow: hidden;
+    background-color:lightskyblue;
+    border-radius: 15px;
+    
+  }
+
+li {
+    float: left;
+}
+
+li a{
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a:hover{
+    background-color: green;
+    color: white;
+}
+
+.sideToggle{
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.contents{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 90px;
+    padding-right: 30px;
+}
+
+/* ************************************************ */
+
+/* #mySidenav a {
+    margin-top: 250px;
+    position: fixed;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 10px 10px 0;
+  }
+  
+  #mySidenav a:hover {
+    left: 0;
+  }
+  
+  #projects {
+    top: 20px;
+    background-color: gray;
+  }
+  
+  #clients {
+    top: 80px;
+    background-color: burlywood;
+  }
+  
+  
+  #contacts {
+    top: 140px;
+    background-color: chocolate;
+  } */ 
