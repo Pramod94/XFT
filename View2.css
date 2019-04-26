@@ -1,3 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
 nav{
     background-color: black;
     width: 100%;
@@ -25,5 +31,9 @@ a.listAnchor {
 ul {
     list-style-type: disc;
     margin-top: -90px;
+}
+
+.sub-menu {
+    display: none;
 }
 
