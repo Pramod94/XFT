@@ -15,7 +15,7 @@ nav{
     height: 100px;
 }
 
-li {
+ul li {
     display: inline;
     margin: auto;
     padding: 40px;
@@ -31,9 +31,5 @@ a.listAnchor {
 ul {
     list-style-type: disc;
     margin-top: -90px;
-}
-
-.sub-menu {
-    display: none;
 }
 
