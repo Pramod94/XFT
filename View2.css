@@ -33,3 +33,16 @@ ul {
     margin-top: -90px;
 }
 
+.social-media{
+    width: 25%;
+    background-color:lightgrey;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    
+}
+
+.social-media a{
+    text-decoration: none;
+    padding: 15px;
+}
