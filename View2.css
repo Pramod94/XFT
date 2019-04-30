@@ -46,3 +46,14 @@ ul {
     text-decoration: none;
     padding: 15px;
 }
+
+div.aboutBenz{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightslategrey;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+div.aboutBenz p {
+    font-style: italic;
+}
